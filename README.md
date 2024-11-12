@@ -17,21 +17,24 @@ demo为鱼皮面试鸭拆解功能，可供快速开发进行使用。
 
 ---
 
-![](https://cdn.nlark.com/yuque/0/2024/png/28334026/1731275125463-757d79a0-b690-42a0-aa11-28c25ef2010b.png)
+![](https://cdn.nlark.com/yuque/0/2024/png/28334026/1731400922206-5f61d281-189c-41b1-b7d8-4e18eeeecb94.png)
+
+点**击卡片跳转到**
+
+![](https://cdn.nlark.com/yuque/0/2024/png/28334026/1731400951901-8578dee1-abde-4081-bed2-b464f5bb683a.png)
 
 ## 💻demo说明
 ---
 
 + 利用分页功能实现样式**卡片一行一行**的展示，同时会随着系统窗口的改变而改变。
-+ 每张卡片具有**点击跳转**到具体类别的功能（在其他模块实现）
-+ 且具有分页功能
++ 每张卡片具有**点击跳转**到具体类别的功能
 
 
 
-## ☀️后端backend-demo-search-question-by-title-or-tags
+## ☀️后端backend-demo-card-to-detail
 ---
 
-传送门🚀[https://github.com/TASProgrammer/backend-demo-search-question-by-title-or-tags](https://github.com/TASProgrammer/backend-demo-questionCardList-4column)
+传送门🚀[https://github.com/TASProgrammer/backend-demo-card-to-detail](https://github.com/TASProgrammer/backend-demo-questionCardList-4column)
 
 #### 🌙SQL
 ```sql
@@ -107,8 +110,8 @@ VALUES ('JavaScript 变量提升', '请解释 JavaScript 中的变量提升现�
 
 
 
-## ☀️前端frontend-demo-search-question-by-title-or-tags
-传送门🚀 [https://github.com/TASProgrammer/frontend-demo-search-question-by-title-or-tags](https://github.com/TASProgrammer/frontend-demo-questionCardList-4column)
+## ☀️前端frontend-demo-card-to-detail
+传送门🚀 [https://github.com/TASProgrammer/frontend-demo-card-to-detail](https://github.com/TASProgrammer/frontend-demo-questionCardList-4column)
 
 <font style="color:rgb(59, 59, 59);">First, run the development server:</font>
 
